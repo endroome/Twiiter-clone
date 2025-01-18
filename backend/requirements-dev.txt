@@ -1,0 +1,17 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+SQLAlchemy==2.0.36
+pytest==8.3.4
+isort==5.13.2
+mypy==1.14.1
+httpx==0.28.1
+greenlet==3.1.1
+flake8==7.1.1
+flake8-bugbear==24.12.12
+flake8-pie==0.16.0
+isort==5.13.2
+black==24.10.0
+types-SQLAlchemy==1.4.53.38
+asyncpg==0.30.0
+python-multipart==0.0.20
+pytest-asyncio==0.25.2
